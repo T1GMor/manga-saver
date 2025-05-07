@@ -1,2 +1,2 @@
 # manga-saver
-Small project that allows for backing up manga from the web.
+Small project that allows backing up manga from the web and notifies new uploads.
